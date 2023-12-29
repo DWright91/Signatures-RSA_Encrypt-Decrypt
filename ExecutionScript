@@ -1,0 +1,195 @@
+#ExecutionScript
+
+[rc2282qr@csci4 ~]$ cat hw3_msg
+
+▒▒K▒▒▒8m_[▒ņ?▒f=,4▒Py▒;▒▒P▒9▒▒^d▒▒▒▒▒▒▒▒^m.▒▒g▒▒P▒vA▒N▒▒▒* ▒▒74▒▒▒▒▒wQ8▒ϗu▒^і\▒▒HH▒▒C4▒,9▒▒▒▒▒▒xu▒|{▒gc▒▒▒W:ZqX▒0`C3n▒FB▒▒▒Ǌؚ▒%L▒:▒▒▒▒|▒(▒▒<PEʶ▒~▒h▒*▒▒f.▒▒c▒▒▒j.▒'▒▒6�s▒#P▒▒o▒▒▒T ▒▒▒y#▒_B▒PM)▒n▒▒o▒T▒▒▒▒▒=/`▒▒A▒D▒F▒)▒Y;▒▒▒▒N▒▒$w▒▒A▒▒
+2U▒iQ`▒*▒>Z�%.A▒▒▒▒▒▒▒ƼZ▒▒▒t ▒▒k▒▒a▒(▒▒▒6▒▒5▒▒▒▒       ▒8▒us▒▒3Û▒4▒▒▒t▒H▒▒=▒▒LOm▒z▒hiTY▒B▒▒▒G▒HT▒▒▒1Q▒▒r▒{▒z▒
+JM+▒U▒~2▒▒▒▒f▒ET˗j▒▒%mRz▒y▒JX:▒▒X▒%▒<▒▒▒▒6▒@▒▒g[rc2282qr@csci4 ~]$
+
+[rc2282qr@csci4 ~]$ cat private_key_1.pem
+
+-----BEGIN RSA PRIVATE KEY-----
+
+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
+
+-----END RSA PRIVATE KEY-----
+
+[rc2282qr@csci4 ~]$ openssl rsa -in private_key_1.pem -out public.pem -outform PEM -pubout
+writing RSA key
+
+[rc2282qr@csci4 ~]$ cat public.pem
+-----BEGIN PUBLIC KEY-----
+
+MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAm1U+MbYhZq2LbNDyqIUj
+
+ar7T2PxD7uvJArcdeNrGjzvOCZPgdMEVH5HQ0I2mffOgGv6/96u0bhM8HV7W995W
+
++60A0CPB825GlCAPIcyKBL1itZHn33T9zhK9XtNFBamfkK9H2uWh9glBOmVd++L/
+
+Nn+bOxFZzSEGouYr0UL3ygMUsJqpMep8xK1YUdV+S/cyAMa+QqyenDJSynj5BYsO
+
+naDbj4yfmrsNzxrI1UDbwoORBU1yyqTEatkLq9N6WIPsJb+xsOacb6yZqt6n0318
+
+5D7m1K+Q/qi8N9xqRWsu2spbsB+JATizdReEccUStoSj7oz5P3Z/Xj3Ql4e4SbDL
+
+2pOwmiZQdWdO87QZOyk/k3jdzjwOWVAUItjmXd1J6fRGu4VufX4AMUK+YA3QKnh2
+
+oUxLvtxHBOGi6WN5p3IknIV9H7dU5Ajut8EWB8fqSAzAulFcby/QBScbnssCVzS9
+
+H1u168tfG0yHwFyN3lhmK8JTaOsIlJzD8QVpxFU3rVOLQQ6V3VlKRVa7iQ3um4aA
+
+07gdfDCsFYQby7OJz6mu9hHoXi0bElSOcW81Clfr3ggVuv/QHaGIP+RGjU+4Hzd+
+
+BCQ9rZC00j6d/jjhSz1k+EKNhEznIN+7YU2jZSR9dqgqYcQjehGQjRulxX7EbdVu
+
+Hsdtis8Np+078wj3J1ZctIECAwEAAQ==
+
+-----END PUBLIC KEY-----
+
+[rc2282qr@csci4 ~]$ openssl rsautl -decrypt -inkey private_key_1.pem -in hw3_msg -out hw3_msgdecrypted.txt
+
+[rc2282qr@csci4 ~]$ cat hw3_msgdecrypted.txt
+
++<--------=================================---*******->+
+
+| CSCI 312 Fall 2021 Homework 3, Problem F.1 Message   |
+
++<--------=================================---*******->+
+
+-----------------------------------------------------------------------------------------------------------------------------
+SCRIPT:
+
+[rc2282qr@csci4 ~]$ openssl genrsa -out key
+
+Generating RSA private key, 2048 bit long modulus
+
+.........................+++
+
+.................................+++
+
+e is 65537 (0x10001)
+
+[rc2282qr@csci4 ~]$ openssl rsa -in key -out pubkey -pubout
+writing RSA key
+
+[rc2282qr@csci4 ~]$ ls
+pubkey      key
+
+[rc2282qr@csci4 ~]$ head --lines=1 key
+-----BEGIN RSA PRIVATE KEY-----
+
+[rc2282qr@csci4 ~]$ head --lines=1 pubkey
+-----BEGIN PUBLIC KEY-----
+
+[rc2282qr@csci4 ~]$ cat > document.txt << EOF
+> Hello, World!
+> EOF
+
+[rc2282qr@csci4 ~]$ cat document.txt
+Hello, World!
+
+[rc2282qr@csci4 ~]$ openssl dgst -sha1 -sign key -out signature document.txt
+
+[rc2282qr@csci4 ~]$ ls signature
+signature
+
+[rc2282qr@csci4 ~]$ openssl dgst -sha1 -verify pubkey -signature signature document.txt
+Verified OK
